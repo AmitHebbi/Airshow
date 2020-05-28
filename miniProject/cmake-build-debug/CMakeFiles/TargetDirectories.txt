@@ -1,0 +1,3 @@
+C:/Users/Amit Hebbi/OneDrive/Desktop/Airshow/miniProject/cmake-build-debug/CMakeFiles/miniProject.dir
+C:/Users/Amit Hebbi/OneDrive/Desktop/Airshow/miniProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Amit Hebbi/OneDrive/Desktop/Airshow/miniProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir

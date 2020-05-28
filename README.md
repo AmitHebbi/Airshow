@@ -8,11 +8,11 @@
 5. There will be a window displaying GRAPHICAL IMPLEMENTATION OF AIRSHOW.
 6. It will require the user to press any key to continue.
 7. The start menu will have the following options:
-	a)PROCEED
-	b)HELP
-	c)INTRODUCTION
-	d)(b) BACK
-	e)(q) QUIT
+    1. PROCEED
+    2. HELP
+    3. INTRODUCTION
+    4. (b) BACK
+    5. (q) QUIT
 8. Press 1 to proceed.
 9. Press 2 for help.
 10. Press 3 for introduction.

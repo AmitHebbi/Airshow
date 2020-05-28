@@ -1,6 +1,6 @@
 # Airshow
-Computer Graphics Mini Project
-
+>Computer Graphics Mini Project
+```sh
 [1] This program is written in C language in KDevelop C/C++.
 [2] First you have to compile the project via clicking on the compile icon.
 [3] Then click on run icon. 
@@ -25,3 +25,4 @@ Computer Graphics Mini Project
 [17] Press D or d to move the airplanes downwards.
 [18] Press the left mouse button to start the rotation of the airplanes.
 [19] Press the right mouse button to stop the rotation of airplanes. 
+```

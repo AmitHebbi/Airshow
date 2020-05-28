@@ -1,5 +1,5 @@
 # Airshow
-###Computer Graphics Mini Project<br>
+### Computer Graphics Mini Project<br>
 
 1. This program is written in C language.
 2. First you have to compile the project via clicking on the compile icon.
